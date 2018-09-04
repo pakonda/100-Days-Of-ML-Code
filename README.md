@@ -157,11 +157,122 @@ Link to the Playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDM
 ## Implementing Random Forests | Day 34
 Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md)
 
+## But what *is* a Neural Network? | Deep learning, chapter 1  | Day 35
+An Amazing Video on neural networks by 3Blue1Brown youtube Channel. This video give a good understanding of Neural Networks and uses Handwritten digit dataset for expaling the concept. 
+Link To the [video.](https://www.youtube.com/watch?v=aircAruvnKk&t=7s)
+
+## Gradient descent, how neural networks learn | Deep learning, chapter 2 | Day 36
+Part two of neural networks by 3Blue1Brown youtube Channel, this video explains the concepts of Gradient Descent in an interesting way. 169 Must watch and Highly Recommended.
+Link To the [video.](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+
+## What is backpropagation really doing? | Deep learning, chapter 3 | Day 37
+Part three of neural networks by 3Blue1Brown youtube Channel, In this video the talk is mostly about the  partial derivatives and backpropagation.
+Link To the [video.](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+
+## Backpropagation calculus | Deep learning, chapter 4 | Day 38
+Part four of neural networks by 3Blue1Brown youtube Channel, The goal here is to represent in somewhat more formal terms the intuition for how backpropagation works and the talk is mostly about the  partial derivatives and backpropagation.
+Link To the [video.](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+
+## Deep Learning with Python, TensorFlow, and Keras tutorial | Day 39
+Link To the [video.](https://www.youtube.com/watch?v=wQ8BIBpya2k&t=19s&index=2&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+
+## Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2 | Day 40
+Link To the [video.](https://www.youtube.com/watch?v=j-3vuBynnOE&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=2)
+
+## Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3 | Day 41
+Link To the [video.](https://www.youtube.com/watch?v=WvoLTXIjBYU&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=3)
+
+## Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4 | Day 42
+Link To the [video.](https://www.youtube.com/watch?v=BqgTU7_cBnk&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=4)
+
 ## K Means Clustering | Day 43
 Moved to Unsupervised Learning and studied about Clustering.
-Working on my website check it out [avikjain.me](avikjain.me)
+Working on my website check it out [avikjain.me](http://www.avikjain.me/)
 Also Found A wonderful animation that can help to easily understand K - Means Clustering [Link](http://shabal.in/visuals/kmeans/6.html)
 
 <p align="center">
   <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2043.jpg">
+</p>
+
+## K Means Clustering Implementation | Day 44
+Implemented K Means Clustering. Check the code [here.]()
+
+## Digging Deeper | NUMPY  | Day 45
+Got a new book "Python Data Science HandBook" by JK VanderPlas Check the Jupyter notebooks [here.](https://github.com/jakevdp/PythonDataScienceHandbook)
+<br>Started with chapter 2 : Introduction to Numpy. Covered topics like Data Types, Numpy arrays and Computations on Numpy arrays.
+<br>Check the code - 
+<br>[Introduction to NumPy](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.00-Introduction-to-NumPy.ipynb)
+<br>[Understanding Data Types in Python](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.01-Understanding-Data-Types.ipynb)
+<br>[The Basics of NumPy Arrays](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.02-The-Basics-Of-NumPy-Arrays.ipynb)
+<br>[Computation on NumPy Arrays: Universal Functions](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.03-Computation-on-arrays-ufuncs.ipynb)
+
+## Digging Deeper | NUMPY | Day 46
+Chapter 2 : Aggregations, Comparisions and Broadcasting
+<br>Link to Notebook:
+<br>[Aggregations: Min, Max, and Everything In Between](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.04-Computation-on-arrays-aggregates.ipynb)
+<br>[Computation on Arrays: Broadcasting](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.05-Computation-on-arrays-broadcasting.ipynb)
+<br>[Comparisons, Masks, and Boolean Logic](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.06-Boolean-Arrays-and-Masks.ipynb)
+
+## Digging Deeper | NUMPY | Day 47
+Chapter 2 : Fancy Indexing, sorting arrays, Struchered Data
+<br>Link to Notebook:
+<br>[Fancy Indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.07-Fancy-Indexing.ipynb)
+<br>[Sorting Arrays](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.08-Sorting.ipynb)
+<br>[Structured Data: NumPy's Structured Arrays](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/02.09-<br>Structured-Data-NumPy.ipynb)
+
+## Digging Deeper | PANDAS | Day 48
+Chapter 3 : Data Manipulation with Pandas
+<br> Covered Various topics like Pandas Objects, Data Indexing and Selection, Operating on Data, Handling Missing Data, Hierarchical Indexing, ConCat and Append.
+<br>Link To the Notebooks:
+<br>[Data Manipulation with Pandas](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb)
+<br>[Introducing Pandas Objects](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.01-Introducing-Pandas-Objects.ipynb)
+<br>[Data Indexing and Selection](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.02-Data-Indexing-and-Selection.ipynb)
+<br>[Operating on Data in Pandas](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.03-Operations-in-Pandas.ipynb)
+<br>[Handling Missing Data](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.04-Missing-Values.ipynb)
+<br>[Hierarchical Indexing](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.05-Hierarchical-Indexing.ipynb)
+<br>[Combining Datasets: Concat and Append](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.06-Concat-And-Append.ipynb)
+
+## Digging Deeper | PANDAS | Day 49
+Chapter 3: Completed following topics- Merge and Join, Aggregation and grouping and Pivot Tables.
+<br>[Combining Datasets: Merge and Join](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.07-Merge-and-Join.ipynb)
+<br>[Aggregation and Grouping](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.08-Aggregation-and-Grouping.ipynb)
+<br>[Pivot Tables](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.09-Pivot-Tables.ipynb)
+
+## Digging Deeper | PANDAS | Day 50
+Chapter 3: Vectorized Strings Operations, Working with Time Series
+<br>Links to Notebooks:
+<br>[Vectorized String Operations](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.10-Working-With-Strings.ipynb)
+<br>[Working with Time Series](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.11-Working-with-Time-Series.ipynb)
+<br>[High-Performance Pandas: eval() and query()](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/03.12-Performance-Eval-and-Query.ipynb)
+
+## Digging Deeper | MATPLOTLIB | Day 51
+Chapter 4: Visualization with Matplotlib 
+Learned about Simple Line Plots, Simple Scatter Plotsand Density and Contour Plots.
+<br>Links to Notebooks: 
+<br>[Visualization with Matplotlib](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
+<br>[Simple Line Plots](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.01-Simple-Line-Plots.ipynb)
+<br>[Simple Scatter Plots](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.02-Simple-Scatter-Plots.ipynb)
+<br>[Visualizing Errors](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.03-Errorbars.ipynb)
+<br>[Density and Contour Plots](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.04-Density-and-Contour-Plots.ipynb)
+
+## Digging Deeper | MATPLOTLIB | Day 52
+Chapter 4: Visualization with Matplotlib 
+Learned about Histograms, How to customize plot legends, colorbars, and buliding Multiple Subplots.
+<br>Links to Notebooks: 
+<br>[Histograms, Binnings, and Density](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.05-Histograms-and-Binnings.ipynb)
+<br>[Customizing Plot Legends](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.06-Customizing-Legends.ipynb)
+<br>[Customizing Colorbars](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.07-Customizing-Colorbars.ipynb)
+<br>[Multiple Subplots](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.08-Multiple-Subplots.ipynb)
+<br>[Text and Annotation](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.09-Text-and-Annotation.ipynb)
+
+## Digging Deeper | MATPLOTLIB | Day 53
+Chapter 4: Covered Three Dimensional Plotting in Mathplotlib.
+<br>Links to Notebooks:
+<br>[Three-Dimensional Plotting in Matplotlib](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.12-Three-Dimensional-Plotting.ipynb)
+
+## Hierarchical Clustering | Day 54
+Studied about Hierarchical Clustering.
+Check out this amazing [Visualization.](https://cdn-images-1.medium.com/max/800/1*ET8kCcPpr893vNZFs8j4xg.gif)
+<p align="center">
+  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2054.jpg">
 </p>
